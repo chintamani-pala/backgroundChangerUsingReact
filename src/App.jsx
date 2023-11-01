@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-       <div className={`${BgColor} w-screen h-screen  flex items-center justify-center flex-col`}>
+       <div className={`${BgColor} duration-100 w-screen h-screen  flex items-center justify-center flex-col`}>
          <div className="flex">
            <button 
            className="bg-red-500 p-4 m-2 rounded"

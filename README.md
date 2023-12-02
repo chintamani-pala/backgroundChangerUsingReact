@@ -18,7 +18,7 @@ To get this project up and running on your local machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/background-changer.git
+   git clone https://github.com/chintamani-pala/backgroundChangerUsingReact.git
     ```
 2. **Navigate to the Project Directory:**
    ```bash
